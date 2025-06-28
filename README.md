@@ -21,7 +21,7 @@ selector .elementor-nav-menu {
 selector .elementor-nav-menu li {
   flex: 0 0 auto;
   scroll-snap-align: start;
-  padding: 10px 15px;
+  padding: 0px 15px;
   white-space: nowrap;
 }
 
